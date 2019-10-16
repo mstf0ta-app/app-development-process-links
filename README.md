@@ -1,4 +1,6 @@
-## How to Make an App from Beginning to End
+## How to Make an App from Beginning to End  
+This list is a reformatting for Angela Yu [YouTube Video](https://www.youtube.com/watch?v=tClRHOnHveY&t=28s) resources
+
 ### Ideas 
 Apps vs. Website - Should your idea be an app?  
 http://appvswebsite.com/  
