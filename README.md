@@ -69,3 +69,5 @@ One Look - A reverse dictionary for keyword generation
 http://onelook.com/  
 Sensor Tower - Check keyword ranking difficulty/traffic  
 https://sensortower.com/  
+
+#### [Resrouces: Angela Yu YouTube Video](https://www.youtube.com/watch?v=tClRHOnHveY&t=28s)
